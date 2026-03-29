@@ -4,9 +4,7 @@
 
 &nbsp;
 
-**AI-powered voice agents & software solutions for enterprises.**
-
-We design, build, and deploy intelligent systems that automate customer interactions, streamline operations, and deliver measurable results.
+**AI-powered enterprise solutions.**
 
 &nbsp;
 
@@ -16,58 +14,32 @@ We design, build, and deploy intelligent systems that automate customer interact
 
 &nbsp;
 
-## What we do
-
-We build **autonomous AI voice agents** and **custom software platforms** for businesses. Our systems handle real customer conversations, integrate with existing tools, and run 24/7 without human intervention.
-
-**Core capabilities:**
-
-- Voice AI agents that speak, listen, and act in real-time
-- Full CRM/ERP integration (Salesforce, HubSpot, custom systems)
-- Real-time analytics, call recording, and conversation insights
-- Custom web platforms, admin panels, and internal tools
+We build intelligent systems that transform how businesses operate. From autonomous voice agents to custom software platforms, we deliver end-to-end AI solutions designed for real-world enterprise needs.
 
 &nbsp;
 
-## Solutions by industry
+### What we do
 
-| | Industry | What we build |
-|---|----------|--------------|
-| :car: | **Automotive** | Test drive scheduling, service booking, parts inquiry agents |
-| :hospital: | **Healthcare** | Appointment management, patient follow-up, exam preparation platforms |
-| :briefcase: | **Enterprise** | HR evaluation systems, meeting analysis, workflow automation |
-| :shopping_cart: | **E-commerce** | Customer service bots, DM automation, order management |
+**Autonomous Voice AI** — AI agents that handle real customer conversations 24/7. They speak, listen, understand context, and take action — scheduling appointments, answering questions, resolving issues — without human intervention.
 
-&nbsp;
+**Custom Software Platforms** — Tailored web applications, admin panels, and internal tools built on modern architecture. Designed to integrate with your existing CRM, ERP, and business systems.
 
-## Tech stack
-
-```
-Voice AI          Python  ·  FastAPI  ·  Whisper  ·  LLM  ·  TTS
-Frontend          Next.js  ·  React  ·  TypeScript  ·  Tailwind CSS
-Design System     @kleros/ui  ·  shadcn/ui  ·  Lucide Icons
-Infrastructure    Docker  ·  Monorepo (Turborepo)  ·  GitHub Actions
-```
+**Data & Analytics** — Real-time conversation insights, performance dashboards, and automated reporting that turn customer interactions into actionable business intelligence.
 
 &nbsp;
 
-## Repository map
+### Industries
 
-| Category | Repositories | Description |
-|----------|-------------|-------------|
-| **Core Platform** | `KlerosAI-V2.0` · `AIS-AgentIntegrationServer` | Voice agent engine & integration middleware |
-| **Client Projects** | `Otokoc` · `TUSAS` · `Chery_v1.0` · `ArabamOn_V1.1` · `TUSMER` | Industry-specific AI deployments |
-| **Web & Tools** | `KlerosAI-Website` · `Website_Builder` · `Flow_Designer` | Public website, internal builders |
-| **Design System** | `kleros-ui` | Shared UI kit — components, tokens, templates |
-| **Utilities** | `Meeting-Analysis` · `web-scraper-hub` · `instagram-dm-bot` | Productivity & automation tools |
-| **R&D** | `kleros_ses_test` | Speech-to-speech experiments (MLX, Apple Silicon) |
-| **Config** | `claude-config-template` · `.github` | Team standards & org profile |
+:car: &nbsp;**Automotive** &nbsp;&nbsp; :hospital: &nbsp;**Healthcare** &nbsp;&nbsp; :briefcase: &nbsp;**Enterprise HR** &nbsp;&nbsp; :shopping_cart: &nbsp;**E-commerce** &nbsp;&nbsp; :airplane: &nbsp;**Aerospace & Defense**
 
 &nbsp;
 
-## Team
+### Why Kleros AI
 
-We are a small, focused engineering team building AI products from Istanbul.
+- **Production-ready** — Not prototypes. Systems running in live environments, handling real customers.
+- **Full-stack delivery** — From AI model to frontend UI, we own the entire product.
+- **Enterprise-grade** — Built for scale, security, and compliance from day one.
+- **Measurable impact** — Our solutions reduce operational costs by up to 70% while improving service quality.
 
 &nbsp;
 
@@ -75,6 +47,6 @@ We are a small, focused engineering team building AI products from Istanbul.
 
 <div align="center">
 
-<sub>A brand of **DELIVERY ONE TEKNOLOJİ A.Ş.** · Istanbul, Turkiye</sub>
+<sub>**DELIVERY ONE TEKNOLOJİ A.Ş.** &nbsp; · &nbsp; Istanbul, Turkiye</sub>
 
 </div>
