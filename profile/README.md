@@ -1,56 +1,80 @@
 <div align="center">
 
-# Kleros AI
+<img src="https://raw.githubusercontent.com/Kleros-AI/.github/main/profile/assets/logo-placeholder.svg" alt="Kleros AI" width="200" />
 
-### Next-Generation Autonomous Call Center Platform
+&nbsp;
 
-*Reduce customer service costs by up to 70% with AI-powered voice agents*
+**AI-powered voice agents & software solutions for enterprises.**
 
-[![Website](https://img.shields.io/badge/Website-klerosai.com-6B9BD2?style=for-the-badge)](https://klerosai.com)
-[![Email](https://img.shields.io/badge/Contact-info%40klerosai.com-6B9BD2?style=for-the-badge)](mailto:info@klerosai.com)
+We design, build, and deploy intelligent systems that automate customer interactions, streamline operations, and deliver measurable results.
+
+&nbsp;
+
+[![Website](https://img.shields.io/badge/klerosai.com-013D5A?style=for-the-badge&logoColor=white)](https://klerosai.com)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/info%40klerosai.com-F6A258?style=for-the-badge&logoColor=white)](mailto:info@klerosai.com)
 
 </div>
 
----
+&nbsp;
 
-## What We Build
+## What we do
 
-We develop **autonomous AI voice agents** that handle customer calls with human-like conversations. Our platform enables businesses to:
+We build **autonomous AI voice agents** and **custom software platforms** for businesses. Our systems handle real customer conversations, integrate with existing tools, and run 24/7 without human intervention.
 
-- **Automate** inbound & outbound customer calls 24/7
-- **Integrate** seamlessly with CRM, Salesforce, HubSpot & existing phone systems
-- **Scale** customer service without increasing headcount
-- **Analyze** conversations with real-time insights & analytics
+**Core capabilities:**
 
-## Industries We Serve
+- Voice AI agents that speak, listen, and act in real-time
+- Full CRM/ERP integration (Salesforce, HubSpot, custom systems)
+- Real-time analytics, call recording, and conversation insights
+- Custom web platforms, admin panels, and internal tools
 
-| Industry | Use Cases |
-|----------|-----------|
-| **Automotive** | Test drive scheduling, service appointments, parts inquiries |
-| **Healthcare** | Appointment booking, patient follow-ups, reminders |
-| **E-commerce** | Order status, returns, product inquiries |
-| **Finance** | Account services, loan applications, support |
+&nbsp;
 
-## Our Technology
+## Solutions by industry
+
+| | Industry | What we build |
+|---|----------|--------------|
+| :car: | **Automotive** | Test drive scheduling, service booking, parts inquiry agents |
+| :hospital: | **Healthcare** | Appointment management, patient follow-up, exam preparation platforms |
+| :briefcase: | **Enterprise** | HR evaluation systems, meeting analysis, workflow automation |
+| :shopping_cart: | **E-commerce** | Customer service bots, DM automation, order management |
+
+&nbsp;
+
+## Tech stack
 
 ```
-Natural Language Processing → Real-time Speech Recognition → Intelligent Response Generation
-                                        ↓
-                    CRM Integration ← Analytics Dashboard ← Call Recording
+Voice AI          Python  ·  FastAPI  ·  Whisper  ·  LLM  ·  TTS
+Frontend          Next.js  ·  React  ·  TypeScript  ·  Tailwind CSS
+Design System     @kleros/ui  ·  shadcn/ui  ·  Lucide Icons
+Infrastructure    Docker  ·  Monorepo (Turborepo)  ·  GitHub Actions
 ```
 
-## Get Started
+&nbsp;
 
-- **Website:** [klerosai.com](https://klerosai.com)
-- **Contact:** info@klerosai.com
-- **Demo:** Request a demo at our website
+## Repository map
+
+| Category | Repositories | Description |
+|----------|-------------|-------------|
+| **Core Platform** | `KlerosAI-V2.0` · `AIS-AgentIntegrationServer` | Voice agent engine & integration middleware |
+| **Client Projects** | `Otokoc` · `TUSAS` · `Chery_v1.0` · `ArabamOn_V1.1` · `TUSMER` | Industry-specific AI deployments |
+| **Web & Tools** | `KlerosAI-Website` · `Website_Builder` · `Flow_Designer` | Public website, internal builders |
+| **Design System** | `kleros-ui` | Shared UI kit — components, tokens, templates |
+| **Utilities** | `Meeting-Analysis` · `web-scraper-hub` · `instagram-dm-bot` | Productivity & automation tools |
+| **R&D** | `kleros_ses_test` | Speech-to-speech experiments (MLX, Apple Silicon) |
+| **Config** | `claude-config-template` · `.github` | Team standards & org profile |
+
+&nbsp;
+
+## Team
+
+We are a small, focused engineering team building AI products from Istanbul.
+
+&nbsp;
 
 ---
 
 <div align="center">
 
-**A brand of DELIVERY ONE TEKNOLOJİ A.Ş.**
-
-*Transforming customer service with artificial intelligence*
+<sub>A brand of **DELIVERY ONE TEKNOLOJİ A.Ş.** · Istanbul, Turkiye</sub>
 
 </div>
